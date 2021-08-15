@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to left, rgb(10, 81, 99), rgb(255, 255, 255));
+}
+
+#reloj{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: white;
+}
+
+.reloj-container{
+    background-color: rgb(12,167,206);
+    padding: 25px;
+    max-width: 350px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10%;
+
+}
+
+#fecha{
+    letter-spacing: 5px;
+    font-size: 15px;
+}
+
+.animar{
+    border: rgb(50, 58, 61) 2px solid;
+
+}
